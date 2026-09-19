@@ -1,6 +1,6 @@
 # 1. Profile
 
-- Name: Henry
+- Name: Henry陳宗誼
 - Student ID: M11502205
 - Department: ECE
 - Student status: NTUST Student 
