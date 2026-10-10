@@ -47,7 +47,7 @@ Result: 1 passed, 0 failed.
 
 Source code:
 
-- [`a2-traffic-model-built-in.cc`](../../../ns-3.46.1/scratch/a2-traffic-model-built-in.cc)
+- [`a2-traffic-model.cc`](src/a2-traffic-model.cc)
 
 The scenario uses ns-3's built-in `ThreeGppHttpClient` and
 `ThreeGppHttpServer`. It contains two nodes connected by a 100 Mbps
