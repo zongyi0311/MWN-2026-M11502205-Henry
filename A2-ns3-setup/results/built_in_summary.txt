@@ -1,0 +1,7 @@
+model: ns-3 built-in ThreeGppHttpClient/ThreeGppHttpServer
+ns-3 version: 3.46.1
+seed: 7
+simulation_time_s: 60
+received_bytes: 441503
+received_packets: 307
+throughput_Mbps: 0.0589653

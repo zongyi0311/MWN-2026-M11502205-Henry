@@ -1,5 +1,0 @@
-ns-3 version: 3.46.1
-seed: 7
-simulation_time_s: 10
-received_bytes: 541200
-throughput_Mbps: 0.437333
